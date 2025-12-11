@@ -1,0 +1,828 @@
+{
+  "nav": {
+    "home": "Home",
+    "rent": "Accommodation Rental",
+    "services": "Services",
+    "social": "Social Media",
+    "content": "Content",
+    "checklists": "Checklists",
+    "cta": "Accommodation Rental"
+  },
+  "hero": {
+    "title": "Dinislam Battalov",
+    "role1": "Entrepreneur",
+    "role2": "Consultant",
+    "role3": "Investor",
+    "box1": "Co-founder of <1>Battalov Iskanderov International</1>, a company operating in investment projects and real estate management.",
+    "box2": "Builds partnerships and guides investors through all stages — from company registration to asset management.",
+    "box3": "Maintains an extensive network of business contacts: government entities, developers, and property owners.",
+    "box4": "Participates in projects across real estate, hospitality, and education sectors in the Kingdom.",
+    "cta": "Our Services"
+  },
+  "whoWeAre": {
+    "title": "Who We Are",
+    "p1": " — an international company promoting investment opportunities in Saudi Arabia for Russian-speaking countries.",
+    "listItem1": "Organize business meetings.",
+    "listItem2": "Facilitate collaboration with partners.",
+    "listItem3": "Manage companies and real estate assets.",
+    "listItem4": "Provide investment consulting."
+  },
+  "goals": {
+    "title": "Our Goals",
+    "goal1": {
+      "title": "1. Sector Development",
+      "description": "Support the development of industrial, agricultural, and commercial sectors in Saudi Arabia."
+    },
+    "goal2": {
+      "title": "2. Investor Support",
+      "description": "Offer consulting and legal support to international companies seeking to invest in the Kingdom."
+    },
+    "goal3": {
+      "title": "3. Project Management",
+      "description": "Manage investment projects for foreign investors in Saudi Arabia."
+    },
+    "goal4": {
+      "title": "4. Education Promotion",
+      "description": "Internationally promote educational initiatives in Saudi Arabia (universities, Arabic language institutes, international schools)."
+    },
+    "goal5": {
+      "title": "5. Real Estate Management",
+      "description": "Manage and operate real estate assets (hotels, apartments, land plots) on behalf of foreign investors."
+    }
+  },
+  "projectsVision": {
+    "title": "Key Projects and Vision",
+    "project1": {
+      "title": "Real Estate",
+      "item1": "Management of a portfolio of properties and serviced apartments in Medina.",
+      "item2": "Currently developing a residential complex and residential towers project in Medina."
+    },
+    "project2": {
+      "title": "Education",
+      "description": "The company holds a stake in the educational project — Institute Taaba — and actively supports its development."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "p1": "To become a leading facilitator of business connections between Saudi and international organizations.",
+      "p2": "Goal: Deliver a consistent pipeline of investment opportunities for entrepreneurs worldwide."
+    }
+  },
+  "partners": {
+    "title": "Our Partners",
+    "partner1": "Taba for Education & Training",
+    "partner2": "Saudi Business Consul"
+  },
+  "footer": {
+    "description": "Your reliable partner in Saudi Arabia. I assist with visas, company registration, residency permits (Iqama), and premium Umrah tour organization.",
+    "telegram": "Telegram",
+    "quickLinks": "Quick Links",
+    "contacts": {
+      "title": "Contact Us",
+
+      "islam": "Islam Real Estate Services +966 54 435 3490",
+
+      "aisha": "Aisha: Educational Consulting and Services +7 987 219-12-33",
+
+      "battalov": "Battalov: Industrial Projects and Opportunities +966547205086",
+
+      "email": "My email: Battalov.ksa@gmail.com",
+      "address": "Medina, Kingdom of<br/>Saudi Arabia"
+    },
+    "copyright": "© 2025 D.E.E.N. Digital Agency. All rights reserved."
+  },
+  "arenda": {
+    "title": "20% Discount on Booking for Ramadan!",
+    "subtitle": "Our Apartments",
+    "description": "Discover an exclusive collection of premium apartments in the best districts of Saudi Arabia.",
+    "buttonVip": "VIP",
+    "buttonEconom": "Economy",
+    "buttonMusafir": "MUSAFIR"
+  },
+  "rentHero": {
+    "title1": "VIP Apartments",
+    "title2": "in Saudi Arabia",
+    "subtitle": "Premium apartment rentals in the Kingdom’s most prestigious neighborhoods. Luxury, comfort, and exceptional service.",
+    "ctaContact": "Contact us regarding rentals",
+    "ctaView": "View apartments",
+    "stat1": "Premium apartments",
+    "stat2": "Service level",
+    "stat3": "Customer support",
+    "modal": {
+      "title": "Contact us regarding rentals",
+      "placeholder": "Tell us about your preferences and apartment requirements..."
+    }
+  },
+  "propertyVip": {
+    "imaraBuildings": [
+      {
+        "id": "imara-1",
+        "name": "VIP Imara on Tarik Quba",
+        "address": "Tarik Quba Street",
+        "description": "A premium residential complex on Tarik Quba Street with modern infrastructure. 1.5 km to the Prophet’s Mosque ﷺ and 2.5 km to Quba Mosque.",
+        "apartments": [
+          {
+            "id": "1-1",
+            "title": "Apartment #1",
+            "description": "Luxurious two-bedroom furnished apartment. Fully furnished.",
+            "price": "$1,500",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "2 bathrooms",
+              "Full furniture and appliances",
+              "Air conditioning",
+              "4 beds"
+            ],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-2",
+            "title": "Apartment #2",
+            "description": "Cozy one-bedroom apartment.",
+            "price": "$1,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "area": 60,
+            "features": ["1 bedroom", "1 bathroom", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-3",
+            "title": "Apartment #3",
+            "description": "Spacious three-bedroom apartment.",
+            "price": "$2,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 110,
+            "features": ["3 bedrooms", "2 bathrooms", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-4",
+            "title": "Apartment #4",
+            "description": "Comfortable three-bedroom apartment.",
+            "price": "$2,100",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 115,
+            "features": ["3 bedrooms", "2 bathrooms", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-5",
+            "title": "Apartment #5",
+            "description": "Elegant four-bedroom apartment in a modern style with high-quality finishes.",
+            "price": "$2,300",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "4 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-6",
+            "title": "Apartment #6",
+            "description": "Bright three-bedroom apartment.",
+            "price": "$2,200",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 120,
+            "features": ["3 bedrooms", "2 bathrooms", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-7",
+            "title": "Apartment #7",
+            "description": "Luxurious four-bedroom apartment.",
+            "price": "$2,500",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "area": 150,
+            "features": ["4 bedrooms", "3 bathrooms", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-8",
+            "title": "Apartment #8",
+            "description": "Convenient three-bedroom apartment.",
+            "price": "$2,150",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 118,
+            "features": ["3 bedrooms", "2 bathrooms", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-9",
+            "title": "Apartment #9",
+            "description": "Large four-bedroom apartment.",
+            "price": "$2,600",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "area": 160,
+            "features": ["4 bedrooms", "3 bathrooms", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-10",
+            "title": "Apartment #10",
+            "description": "Compact one-bedroom apartment.",
+            "price": "$1,100",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 1,
+            "bathrooms": 1,
+            "area": 65,
+            "features": ["1 bedroom", "1 bathroom", "Air conditioning"],
+            "vip": "VIP"
+          },
+          {
+            "id": "1-11",
+            "title": "Apartment #11",
+            "description": "Modern European-style two-bedroom apartment (“Evro-dvushka”).",
+            "price": "$1,800",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "area": 80,
+            "features": [
+              "European-style two-bedroom",
+              "1 bathroom",
+              "Air conditioning"
+            ],
+            "vip": "VIP"
+          }
+        ]
+      }
+    ]
+  },
+  "propertyCard": {
+    "perMonth": "/month",
+    "beds": "beds",
+    "bathrooms": "bathrooms",
+    "more": "more",
+    "details": "Details",
+    "book": "Book"
+  },
+  "propertyDetailModal": {
+    "perMonth": "/month",
+    "descriptionTitle": "Description",
+    "specsTitle": "Specifications",
+    "beds": "beds",
+    "bathrooms": "bathrooms",
+    "featuresTitle": "Features",
+    "closeButton": "Close",
+    "bookButton": "Book"
+  },
+  "bookingModalVip": {
+    "title": "Book an Apartment",
+    "description": "Submit your request, and our manager will contact you shortly."
+  },
+  "bookingModalEconom": {
+    "title": "Book an Apartment",
+    "description": "Submit your request, and our manager will contact you shortly."
+  },
+  "bookingModalMusafir": {
+    "title": "Book an Apartment",
+    "description": "Submit your request, and our manager will contact you shortly."
+  },
+  "servicesPage": {
+    "title": "My Services",
+    "services": {
+      "registration": {
+        "title": "Company Registration",
+        "description": "Full support for registering your business in Saudi Arabia."
+      },
+      "consulting": {
+        "title": "Consulting",
+        "description": "Tailored consulting on business, investment, and living in Saudi Arabia."
+      },
+      "realEstate": {
+        "title": "Apartment Selection/Sale",
+        "description": "Assistance in finding, purchasing, and renting properties that match your requirements and budget."
+      }
+    },
+    "card": {
+      "buttonContact": "Contact",
+      "buttonGo": "Go"
+    }
+  },
+  "registrationModal": {
+    "title": "Company Registration Request",
+    "description": "Submit your request, and our manager will contact you shortly."
+  },
+  "consultingModal": {
+    "title": "Consulting Request",
+    "description": "Submit your request, and our manager will contact you shortly."
+  },
+  "socialMediaPage": {
+    "title": "Social Media",
+    "links": {
+      "instagramBusiness": "Instagram (Business)",
+      "instagramHaramein": "Instagram (About the Two Holy Sanctuaries)",
+      "instagramEstate": "Instagram (Real Estate)",
+      "youtubeBusiness": "YouTube (Business & Life in KSA)",
+      "youtubeReligious": "YouTube (Religious Content)",
+      "telegramMain": "Telegram (Main Channel)",
+      "telegramVisa": "Telegram (Visas)",
+      "telegramLocation": "Telegram (Locations, Study, Work)",
+      "tiktok": "TikTok",
+      "chat": "Q&A Chat",
+      "personalMessages": "Direct Messages (Telegram)"
+    },
+    "card": {
+      "buttonGo": "Go"
+    }
+  },
+  "contentPage": {
+    "title": "Content",
+    "description": "This section is under development. It will feature content aggregated from all of Dinislam Battalov’s social media channels."
+  },
+  "checklistsPage": {
+    "title": "Checklists & Guides",
+    "checklists": {
+      "umra": "Checklist: \"How to Perform Umrah Independently\"",
+      "jobs": "Top Saudi Companies Job Search Checklist",
+      "arrival": "Checklist for Arriving in Saudi Arabia",
+      "visas": "All About Visas",
+      "study": "Studying in Saudi Arabia",
+      "work": "Work and Business in Saudi Arabia",
+      "hajj": "Hajj and Umrah"
+    },
+    "card": {
+      "buttonGo": "Go"
+    }
+  },
+  "businessForumPage": {
+    "hero": {
+      "title": "Business Forum in Saudi Arabia",
+      "subtitle": "A premium platform where Muslim entrepreneurs from around the world unite around principles of partnership, growth, and spiritual values.",
+      "ctaParticipate": "Participate",
+      "ctaInfo": "Get Info"
+    },
+    "whatYouGet": {
+      "title": "What You’ll Gain at the Forum",
+      "card1": {
+        "title": "Expert Knowledge",
+        "p1": "Receive unique insights from Khandamir Nusratkhuzhaev on 15 partnership principles that enable business scaling without conflict or losses.",
+        "p2": "Learn practical tools for doing business in Saudi Arabia from active entrepreneurs and practitioners, including Dinislam Battalov."
+      },
+      "card2": {
+        "title": "Valuable Networking",
+        "p1": "Build strong business relationships with Muslim entrepreneurs, investors, and experts from diverse countries.",
+        "p2": "Find potential partners and investors to grow your business in Saudi Arabia and beyond."
+      },
+      "card3": {
+        "title": "Growth in KSA",
+        "p1": "Understand the nuances of doing business in the Kingdom and receive actionable recommendations for successful launch and growth.",
+        "p2": "Join the formation of a Russian-speaking business community in Saudi Arabia, grounded in Islamic values."
+      }
+    },
+    "mission": {
+      "title": "Forum Mission and Goals",
+      "missionTitle": "Mission",
+      "missionText": "Our forum is a platform for dialogue and collaboration, built on the principles of partnership, mutual development, and shared spiritual values.",
+      "goalsTitle": "Goals",
+      "goal1": "Transfer to participants Khandamir’s 15 partnership principles — enabling conflict- and loss-free business scaling.",
+      "goal2": "Provide real-world tools for business in KSA — through speakers, practitioners, and active entrepreneurs.",
+      "goal3": "Create a networking platform where businesspeople can find partners, investors, and trusted connections.",
+      "goal4": "Form the core of a Russian-speaking business community in Saudi Arabia — growing systematically and guided by Islamic values."
+    },
+    "speaker": {
+      "name": "Khandamir Nusratkhuzhaev",
+      "title": "Lead Speaker",
+      "bio1": "International expert in Islamic finance with 10 years of experience; former member of the AAOIFI Board (2016–2023) and the Islamic Development Bank (KSA).",
+      "bio2": "Co-author of AAOIFI financial standards adopted by Islamic financial institutions worldwide.",
+      "bio3": "Active promoter of Islamic finance in Central Asia and Russia.",
+      "bio4": "Over 25 years of experience in international finance, including with the 'Big Four' and IDB.",
+      "bio5": "Holder of prestigious international qualifications in Islamic finance: CSAA, CIPA, CIAE."
+    },
+    "packages": {
+      "title": "Participation Packages",
+      "button": "Choose Package",
+      "standard": {
+        "title": "Standard",
+        "description": "Participation only (no accommodation)",
+        "features": [
+          "Access to both training days",
+          "Basic welcome kit: badge, notebook, pen",
+          "Seating in general hall (open seating)",
+          "Access to general Telegram channel for all participants",
+          "Participation in networking sessions"
+        ]
+      },
+      "business": {
+        "title": "Business",
+        "description": "Priority seating, coffee break",
+        "features": [
+          "All Standard package benefits",
+          "Priority seating (front rows after Premium)",
+          "Badges with silver trim",
+          "Dedicated Telegram channel for Business-tier participants",
+          "Group photo with Khandamir in the main hall",
+          "Coffee break and light networking with business speakers",
+          "Discount on next forum"
+        ]
+      },
+      "premium": {
+        "title": "Premium (VIP)",
+        "description": "Front-row seating, personal curator, gala dinner",
+        "features": [
+          "All Business package benefits",
+          "Airport meet & greet with personalized Premium [Surname] sign",
+          "Transfer and hotel check-in assistance",
+          "Personal curator (support, coordination, facilitation)",
+          "Assigned front-row seats",
+          "Gold-framed badges",
+          "Opportunity to promote your brand",
+          "Gala dinner with Khandamir and speakers",
+          "Exclusive Telegram channel for Premium participants",
+          "Premium gifts: branded notebooks, pens, cardholders, T-shirts"
+        ]
+      }
+    },
+    "sponsors": {
+      "title": "Sponsorship Packages",
+      "button": "Sponsor",
+      "platinum": {
+        "title": "Platinum",
+        "description": "1 participant + 2 guests",
+        "benefits": [
+          "10-minute on-stage presentation of your company",
+          "Personal mention by Khandamir",
+          "Advertising integration in forum brand book: full page",
+          "Product integration: opportunity to showcase your products",
+          "Maximum media exposure: logo placement everywhere"
+        ]
+      },
+      "gold": {
+        "title": "Gold",
+        "description": "1 participant + 1 guest",
+        "benefits": [
+          "5-minute on-stage presentation",
+          "Mention by Khandamir",
+          "2/3-page feature in brand book",
+          "Advertising spot: option to set up your own booth/materials",
+          "Logo visibility: banners, Telegram channel mentions"
+        ]
+      },
+      "silver": {
+        "title": "Silver",
+        "description": "1 participant",
+        "benefits": [
+          "1-minute company introduction on stage",
+          "Mention by moderator/speaker",
+          "1/3-page feature in brand book",
+          "Product display opportunity in venue",
+          "Logo in general partner list on banners"
+        ]
+      }
+    },
+    "program": {
+      "day1": {
+        "day": "Day 1–2",
+        "title": "Training with Khandamir",
+        "content": [
+          "Topic: 15 Principles of Partnership",
+          "A unique program where Khandamir reveals a partnership system for scaling business without conflict or losses",
+          "Practical case studies, interactive sessions, assignments, and live Q&A with Khandamir"
+        ]
+      },
+      "day2": {
+        "day": "Day 3",
+        "title": "Business Forum",
+        "content": [
+          "Stage presentations by entrepreneurs from Saudi Arabia, including Dinislam Battalov and invited speakers",
+          "Real business experience, case studies, networking, and collaboration opportunities"
+        ]
+      },
+      "day3": {
+        "day": "Day 4 (Optional)",
+        "title": "Jeddah Business Tour or Premium Umrah",
+        "content": [
+          "Business Tour: Visit 3–4 companies operating in Saudi Arabia’s real sectors",
+          "Premium Umrah: Organized by Hatch Center — private guided tour, accompaniment, spiritual program"
+        ]
+      }
+    }
+  },
+  "notFoundPage": {
+    "title": "404",
+    "message": "Oops! Page not found",
+    "cta": "Back to Home"
+  },
+  "propertyEconom": {
+    "imaraBuildings": [
+      {
+        "id": "imara-2",
+        "name": "Imara – 9 Apartments",
+        "address": "Tarik Quba Street",
+        "description": "Residential complex on Tarik Quba Street. 1.5 km to the Prophet’s Mosque ﷺ and 2.5 km to Quba Mosque.",
+        "apartments": [
+          {
+            "id": "2-3",
+            "title": "Apartment #23",
+            "description": "Three-bedroom apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 2, Tarik Quba St.",
+            "bedrooms": 7,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-2",
+            "title": "Apartment #13",
+            "description": "Elegant three-bedroom apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 2, Tarik Quba St.",
+            "bedrooms": 7,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-1",
+            "title": "Apartment #11",
+            "description": "Apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 2, Tarik Quba St.",
+            "bedrooms": 5,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-4",
+            "title": "Apartment #4",
+            "description": "Apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-5",
+            "title": "Apartment #5",
+            "description": "Apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-6",
+            "title": "Apartment #6",
+            "description": "Apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-7",
+            "title": "Apartment #7",
+            "description": "Apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-8",
+            "title": "Apartment #8",
+            "description": "Apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          },
+          {
+            "id": "2-9",
+            "title": "Apartment #9",
+            "description": "Apartment in modern style with high-quality finishes.",
+            "price": "$1,000",
+            "location": "Imara 1, Tarik Quba St.",
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "3 bedrooms",
+              "2 bathrooms",
+              "Air conditioning",
+              "Full furniture and appliances"
+            ],
+            "vip": "Economy"
+          }
+        ]
+      }
+    ]
+  },
+  "propertyMusafir": {
+    "imaraBuildings": [
+      {
+        "id": "imara-3",
+        "name": "MUSAFIR Apartments",
+        "address": "Medina",
+        "description": "The apartment is located between the Prophet’s Mosque and Quba Mosque: 1 km from the Prophet’s Mosque along a pedestrian pathway.",
+        "apartments": [
+          {
+            "id": "3-1",
+            "title": "Apartment #11 Tarik Quba",
+            "description": "Located between the Prophet’s Mosque and Quba Mosque: 1 km from the Prophet’s Mosque along a pedestrian pathway.",
+            "price": "$880",
+            "location": "Medina, Tarik Quba",
+            "bedrooms": 6,
+            "bathrooms": 2,
+            "area": 100,
+            "features": [
+              "Refrigerator",
+              "Washing machine",
+              "Gas stove",
+              "Kettle",
+              "WiFi for messengers",
+              "Hot shower",
+              "Storage cabinets",
+              "Air conditioning"
+            ],
+            "vip": "Musafir"
+          },
+          {
+            "id": "3-2",
+            "title": "Apartment #1 Awal Quba",
+            "description": "Located between the Prophet’s Mosque and Quba Mosque: 500 m from the Prophet’s Mosque and 2.5 km from Quba Mosque.",
+            "price": "$900",
+            "location": "Awal Quba",
+            "bedrooms": 9,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "Refrigerator",
+              "Washing machine",
+              "Gas stove",
+              "Kettle",
+              "WiFi for messengers",
+              "Hot shower",
+              "Storage cabinets",
+              "Air conditioning"
+            ],
+            "vip": "Musafir"
+          },
+          {
+            "id": "3-3",
+            "title": "Kurdi Studio",
+            "description": "An excellent option for one person, a couple, or two close relatives. Cozy, quiet, and not far from the Prophet’s Mosque ﷺ.",
+            "price": "$1,600",
+            "location": "2.3 km to Prophet’s Mosque ﷺ",
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "area": 55,
+            "features": [
+              "2 sleeping places",
+              "Refrigerator",
+              "Stove",
+              "Shower",
+              "Storage cabinets",
+              "Split air conditioner",
+              "Kettle"
+            ],
+            "vip": "Musafir"
+          },
+          {
+            "id": "3-4",
+            "title": "Apartment #2 Awal Quba",
+            "description": "Located between the Prophet’s Mosque and Quba Mosque: 500 m from the Prophet’s Mosque and 2.5 km from Quba Mosque.",
+            "price": "$900",
+            "location": "Awal Quba",
+            "bedrooms": 9,
+            "bathrooms": 2,
+            "area": 130,
+            "features": [
+              "Refrigerator",
+              "Washing machine",
+              "Gas stove",
+              "Kettle",
+              "WiFi for messengers",
+              "Hot shower",
+              "Storage cabinets",
+              "Air conditioning"
+            ],
+            "vip": "Musafir"
+          },
+          {
+            "id": "3-5",
+            "title": "Apartment #3 Awal Quba",
+            "description": "Located between the Prophet’s Mosque and Quba Mosque: 500 m from the Prophet’s Mosque and 2.5 km from Quba Mosque.",
+            "price": "$900",
+            "location": "Awal Quba",
+            "bedrooms": 11,
+            "bathrooms": 2,
+            "area": 140,
+            "features": [
+              "Refrigerator",
+              "Washing machine",
+              "Gas stove",
+              "Kettle",
+              "WiFi for messengers",
+              "Hot shower",
+              "Storage cabinets",
+              "Air conditioning"
+            ],
+            "vip": "Musafir"
+          }
+        ]
+      }
+    ]
+  },
+  "contactForm": {
+    "title": "Contact Us",
+    "subtitle": "Ready to find your ideal apartment? Submit your request, and our experts will select the best options tailored for you.",
+    "formTitle": "Contact Form",
+    "longTermButton": "Long-Term Rental",
+    "phoneTitle": "Phone",
+    "emailTitle": "Email",
+    "whatsappTitle": "WhatsApp",
+    "vip": {
+      "title": "VIP Service",
+      "item1": "Personal manager",
+      "item2": "Online apartment viewings",
+      "item3": "Document processing assistance"
+    }
+  },
+  "longTermRentModal": {
+    "title": "Long-Term Rental Request",
+    "description": "Submit your request, and our manager will contact you shortly to discuss the details."
+  }
+}

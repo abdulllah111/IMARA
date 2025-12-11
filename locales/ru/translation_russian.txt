@@ -85,10 +85,8 @@
 
       "battalov": "Батталов: Промышленные проекты и возможности +966547205086",
 
-      "email": "Мой email: Battalov.ksa@gmail.com"},
-      "copyright": "© 2025 D.E.E.N. Digital Agency. Все права защищены."
+      "email": "Мой email: Battalov.ksa@gmail.com"}
   },
-  
   "arenda": {
     "title": "Скидка 20% на бронь в Рамадан!",
     "subtitle": "Наши Квартиры",
